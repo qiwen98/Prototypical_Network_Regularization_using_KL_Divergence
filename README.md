@@ -1,5 +1,5 @@
 # An improved version of Few-shot Bioacoustic Event Detection (DCASE 2021 Task 5)
-In the final project of Tsinghua Deep Learning 2022 spring courses, we proposed a new kl-loss function for Few-shot Bioacoustic Event Detection (Task 5 in the DCASE Challenge 2022). This repository contains the source code to run the evaluation metrics, and the baseline systems, along with a detailed description of the task. 
+In the final project of Tsinghua Deep Learning 2022 spring course, we proposed a new kl-loss function for Few-shot Bioacoustic Event Detection (Task 5 in the DCASE Challenge 2022). This repository contains the source code to run the evaluation metrics, and the baseline systems, along with a detailed description of the task. 
 
 # Result Reproduce
 **Program running steps:** 
@@ -28,3 +28,5 @@ Steps of using the pretrined model to reproduce our results.
 
 # Ours Results
 ![image info](./result.png)
+
+**For more info, please refer to our pdf documentation, thank you.**
