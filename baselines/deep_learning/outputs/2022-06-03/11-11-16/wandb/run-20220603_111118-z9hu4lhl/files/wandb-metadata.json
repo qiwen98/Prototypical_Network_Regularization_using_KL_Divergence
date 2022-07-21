@@ -1,0 +1,26 @@
+{
+    "os": "Linux-4.15.0-176-generic-x86_64-with-glibc2.27",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-03T03:11:23.183288",
+    "startedAt": "2022-06-03T03:11:18.675952",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 10,
+    "cpu_count": 32,
+    "cuda": null,
+    "args": [
+        "set.train=true"
+    ],
+    "state": "running",
+    "program": "/home/gqw98/dcaseTask5/baselines/deep_learning/main.py",
+    "codePath": "baselines/deep_learning/main.py",
+    "git": {
+        "remote": "https://github.com/c4dm/dcase-few-shot-bioacoustic.git",
+        "commit": "548962546a39ff987d8619530b2234b2367cfa78"
+    },
+    "email": null,
+    "root": "/home/gqw98/dcaseTask5",
+    "host": "FY-79",
+    "username": "gqw98",
+    "executable": "/home/gqw98/anaconda3/envs/pytorch/bin/python"
+}
